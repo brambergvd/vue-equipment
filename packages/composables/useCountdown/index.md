@@ -34,7 +34,7 @@ function callback() {
 }
 
 const args = {
-  endDateTime: dateArray,
+  endDateTime: refDateArray,
   timezone: 'Europe/Berlin',
 }
 
